@@ -8,17 +8,17 @@ git reset <commit hash>
 ```
 (dies macht einen mixed-reset, default option ist --mixed)
 
-## Änderungen machen, dann:
+### Änderungen machen, dann:
 ```
 ./git-commit.sh
 ```
 
-## Weitere Änderungen machen, dann:
+### Weitere Änderungen machen, dann:
 ```
 ./git-commit.sh
 ```
 
-## Wenn fertig, Änderungen FORCE PUSHEN:
+### Wenn fertig, Änderungen FORCE PUSHEN:
 ```
 ./git-force-push.sh
 ```
